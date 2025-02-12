@@ -1,0 +1,1 @@
+Aims of the project is to predict carbon emissions using ensemble machine learning techniques. It is part of the Green AI internship capstone project. The model uses multiple algorithms to improve prediction accuracy, contributing to sustainability efforts by identifying key emission factors.
